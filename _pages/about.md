@@ -18,10 +18,10 @@ LLM agents, and CDP instrumentation for analyzing tracking behavior and prompt-i
 
 Bio:
 ======
-I am fortunate to be advised by [Professor Umar Iqbal](https://your-link-here).
+I am fortunate to be advised by [Professor Umar Iqbal](https://umariqbal.com/index.html).
 Previously, during my undergraduate studies at Union College, I was advised by 
-[Professor Kristina Striegnitz](https://your-link-here) and 
-[Professor Eshragh Motahar](https://your-link-here).
+[Professor Kristina Striegnitz](https://www.union.edu/computer-science/faculty-staff/kristina-striegnitz) and 
+[Professor Eshragh Motahar](https://www.union.edu/economics/faculty-staff/eshragh-motahar).
 
 
 Publications:
